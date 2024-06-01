@@ -1,7 +1,5 @@
 # Misskey Themes by hol.ogra.ph
 
-![Misskey Logo](![Screenshot of Holo-Yin theme](./preview/holoyin.JPG))
-
 This is a collection of custom themes for Misskey (as well as its forks, such as Sharkey) created by the [hol.ogra.ph](https://hol.ogra.ph) community. 
 
 ## How to Use
