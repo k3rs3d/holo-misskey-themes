@@ -18,6 +18,8 @@ If you want to preview a theme before committing to installing it, you can inste
 
 Currently the default Holograph theme. Vaporwave vibes, with an emphasis on fuchsia. 
 
+![Screenshot of Holo-Yang theme](./preview/holoyang.jpg)
+
 ### Holo-Yin (Dark)
 
 Alternate version of the default Holo-Yang holograph theme. Swaps cyan and fuchsia, for a different feel. 
