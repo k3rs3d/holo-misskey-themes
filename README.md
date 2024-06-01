@@ -1,6 +1,6 @@
 # Misskey Themes by hol.ogra.ph
 
-![Misskey Logo](https://media.misskeyusercontent.jp/misskey/webpublic-0c66b1ca-b8c0-4eaa-9827-47674f4a1580.png)
+![Misskey Logo](![Screenshot of Holo-Yin theme](./preview/holoyin.JPG))
 
 This is a collection of custom themes for Misskey (as well as its forks, such as Sharkey) created by the [hol.ogra.ph](https://hol.ogra.ph) community. 
 
@@ -26,17 +26,21 @@ Alternate version of the default Holo-Yang holograph theme. Swaps cyan and fuchs
 
 ![Screenshot of Holo-Yin theme](./preview/holoyin.JPG)
 
-### Holo Girl Summer 
+### Holoween (Dark)
 
-WIP - my first attempt at a light theme. Pastel blues and yellows. 
+WIP - a mysterious orange and teal theme, ideal for a witchy feel or just for evening browsing. 
 
-### Holoween 
+![Screenshot of Holoween theme](./preview/holoween.JPG)
 
-WIP - a mysterious orange and teal theme, ideal for a witchy feel or just for night time browsing. 
+### Holo Girl Summer (Light)
+
+WIP - my first attempt at a light theme. Pastel blues and yellows. Not sure what I'm doing here...
+
+![Screenshot of Holo Girl Summer theme](./preview/hologirlsummer.JPG)
 
 ## Contributions 
 
-To submit your theme or improve an existing one, please follow these steps:
+To submit your holographic theme or improve an existing one, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your theme: `git checkout -b my-new-theme`.
